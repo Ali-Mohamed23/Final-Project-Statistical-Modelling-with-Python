@@ -1,0 +1,26 @@
+free_bikes,latitude,longitude,name_x,timestamp,bike_station,name_y,rating,location.address1
+7,49.274232,-123.129998,Rolston & Granville,2023-02-13T19:22:31.715000Z,1,La Taqueria Pinche Taco Shop,4.0,2450 Yukon Street
+7,49.274232,-123.129998,Rolston & Granville,2023-02-13T19:22:31.715000Z,1,Marulilu Cafe,4.0,451 W Broadway
+7,49.274232,-123.129998,Rolston & Granville,2023-02-13T19:22:31.715000Z,1,Saku,4.0,548 W Broadway
+7,49.274232,-123.129998,Rolston & Granville,2023-02-13T19:22:31.715000Z,1,Jollibee,3.5,2549 Cambie Street
+7,49.274232,-123.129998,Rolston & Granville,2023-02-13T19:22:31.715000Z,1,Hokkaido Ramen Santouka,4.0,558 W Broadway
+8,49.285953,-123.124066,Georgia & Thurlow,2023-02-13T19:22:31.419000Z,2,The Keg Steakhouse + Bar,4.0,1121 Alberni Street
+8,49.285953,-123.124066,Georgia & Thurlow,2023-02-13T19:22:31.419000Z,2,Joe Fortes Seafood & Chop House,4.0,777 Thurlow Street
+8,49.285953,-123.124066,Georgia & Thurlow,2023-02-13T19:22:31.419000Z,2,Guu Original Thurlow,4.0,838 Thurlow Street
+8,49.285953,-123.124066,Georgia & Thurlow,2023-02-13T19:22:31.419000Z,2,Thierry,4.0,1059 Alberni Street
+8,49.285953,-123.124066,Georgia & Thurlow,2023-02-13T19:22:31.419000Z,2,Carlino Restaurant,3.5,1115 Alberni Street
+16,49.281301,-123.139108,Beach & Broughton,2023-02-13T19:22:31.672000Z,3,Gurkha Himalayan Kitchen,4.0,1141 Davie Street
+16,49.281301,-123.139108,Beach & Broughton,2023-02-13T19:22:31.672000Z,3,Cazba,3.5,1103 Davie Street
+16,49.281301,-123.139108,Beach & Broughton,2023-02-13T19:22:31.672000Z,3,Tom Sushi,4.5,1175 Davie St
+16,49.281301,-123.139108,Beach & Broughton,2023-02-13T19:22:31.672000Z,3,Takis Taverna,3.5,1106 Davie Street
+16,49.281301,-123.139108,Beach & Broughton,2023-02-13T19:22:31.672000Z,3,Mumbai Local Restaurant,4.0,1148 Davie Street
+10,49.287464,-123.060771,Wall & Eton,2023-02-13T19:22:31.437000Z,4,Dundas Eat + Drink,4.5,2077 Dundas Street
+10,49.287464,-123.060771,Wall & Eton,2023-02-13T19:22:31.437000Z,4,Far Out Coffee Post,4.5,2173 Dundas Street
+10,49.287464,-123.060771,Wall & Eton,2023-02-13T19:22:31.437000Z,4,Wall Street Community Garden,4.0,Cambridge Park
+10,49.287464,-123.060771,Wall & Eton,2023-02-13T19:22:31.437000Z,4,Domino's Pizza,2.5,2083 Dundas Street
+10,49.287464,-123.060771,Wall & Eton,2023-02-13T19:22:31.437000Z,4,Subway,1.5,2079 Dundas Street
+14,49.266476,-123.109389,Columbia & 5th,2023-02-13T19:22:31.605000Z,5,Mangia Cucina & Bar,4.5,2211 Manitoba St
+14,49.266476,-123.109389,Columbia & 5th,2023-02-13T19:22:31.605000Z,5,Rocanini Coffee Roasters,4.0,127 W 5th Avenue
+14,49.266476,-123.109389,Columbia & 5th,2023-02-13T19:22:31.605000Z,5,Taco Nori Sushi Tacos,4.5,118 West 6th Avenue
+14,49.266476,-123.109389,Columbia & 5th,2023-02-13T19:22:31.605000Z,5,Terra Breads,4.0,53 W 5th Avenue
+14,49.266476,-123.109389,Columbia & 5th,2023-02-13T19:22:31.605000Z,5,Jonathan Rogers Park,4.5,110 7 Avenue W
